@@ -1,1 +1,2 @@
 Hello Text ............... This is first line of git command.
+Added the 2nd line of git command .
