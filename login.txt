@@ -1,0 +1,2 @@
+This is login file with username and password.
+Username should have one capital letter, one number, one special character and minimum length should be 8 character long.
